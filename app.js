@@ -34,7 +34,7 @@ app.post("/", function (req, res){
 
     var options = {
         method: "POST",
-        auth: "aneel:a657d34a243f2646dd7403b614ba786ac-us18"
+        auth: "aneel:657d34a243f2646dd7403b614ba786ac-us18"
     }
 
     // post request through server
